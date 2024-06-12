@@ -1,0 +1,81 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CP41PG193",
+            "request": "launch",
+            "mainClass": "checkpoints.ch4.CP41PG193",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "CP320PG151",
+            "request": "launch",
+            "mainClass": "checkpoints.ch3.CP320PG151",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "TestConnection",
+            "request": "launch",
+            "mainClass": "code_listings.ch_17_databases.TestConnection",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "cp320pg151",
+            "request": "launch",
+            "mainClass": "checkpoints.ch3.cp320pg151",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestScores_Invalid_Tester",
+            "request": "launch",
+            "mainClass": "ProgrammingChallenges.Ch11.TestScores_Invalid_Tester",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleWindowDemo",
+            "request": "launch",
+            "mainClass": "CodeListings.Chapter12GUIApplications.SimpleWindowDemo",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EmbeddedMain",
+            "request": "launch",
+            "mainClass": "CodeListings.Chapter12GUIApplications.EmbeddedMain",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BuildEntertainmentDB",
+            "request": "launch",
+            "mainClass": "CodeListings.Chapter17Databases.BuildEntertainmentDB",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaticDemo",
+            "request": "launch",
+            "mainClass": "CodeListings.Chapter8A2ndLookAtClassesAndObjects.StaticDemo",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CourseDemo",
+            "request": "launch",
+            "mainClass": "CodeListings.Chapter8A2ndLookAtClassesAndObjects.CourseDemo",
+            "projectName": "StartingOutWithJava6thEd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Columns",
+            "request": "launch",
+            "mainClass": "CodeListings.Chapter3DecisionStructures.Columns",
+            "projectName": "StartingOutWithJava6thEd"
+        }
+    ]
+}
